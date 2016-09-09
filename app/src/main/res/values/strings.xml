@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Water Control</string>
+    <string name="title_activity_led_control">Sistema de reaproveietamento de Água</string>
+</resources>
